@@ -1,7 +1,5 @@
 # File transfer System
 
-![CI](https://github.com/OWNER/REPOSITORY/actions/workflows/ci.yml/badge.svg?branch=main)
-
 
 DropVault is a secure, ephemeral file sharing platform designed for local-only deployment.
 
