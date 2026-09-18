@@ -1,8 +1,7 @@
-# DropVault
+# File transfer System
 
 ![CI](https://github.com/OWNER/REPOSITORY/actions/workflows/ci.yml/badge.svg?branch=main)
 
-> Replace `OWNER/REPOSITORY` in the badge URL with the GitHub repository path after this local workspace is pushed; no GitHub remote is configured here.
 
 DropVault is a secure, ephemeral file sharing platform designed for local-only deployment.
 
